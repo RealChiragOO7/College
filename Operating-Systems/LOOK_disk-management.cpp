@@ -61,8 +61,7 @@ int look(int *a, int n, int head)
   return sum;
 }
 
-int
-main ()
+int main()
 {
   int n;
   cout<<"enter n: ";
