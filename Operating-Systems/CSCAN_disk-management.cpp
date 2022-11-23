@@ -62,8 +62,7 @@ int cscan(int *a, int n, int head, int total)
   return sum;
 }
 
-int
-main ()
+int main ()
 {
   int n;
   cout<<"enter n: ";
